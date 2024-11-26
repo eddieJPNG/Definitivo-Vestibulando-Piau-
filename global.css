@@ -12,17 +12,17 @@ body {
   }
   
   header figure {
-    width: 20%;
+    width: 36%;
     background-color: black;
   }
   
   .headerRight {
-    width: 80%;
+    width: 64%;
     background-color: black;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center; */
+    /* justify-content: center; */
   }
   
   
@@ -33,8 +33,8 @@ body {
   }
   nav ul li a {
     text-decoration: none;
+    color: #bebebe;
   }
-  
   nav ul li {
     list-style: none;
   }
@@ -44,11 +44,11 @@ body {
     font-family: 'poppins', sans-serif;
   }
   
-  section {
+  /* section {
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-  }
+  } */
   header img {
   
     width: 100px;
